@@ -1,0 +1,32 @@
+[
+    {
+        "value": "zh-tw",
+        "label": "繁體中文",
+        "disabled": false
+    },
+    {
+        "value": "zh-cn",
+        "label": "簡體中文",
+        "disabled": false
+    },
+    {
+        "value": "us",
+        "label": "English",
+        "disabled": "false"
+    },
+    {
+        "value": "ko",
+        "label": "한국어",
+        "disabled": false
+    },
+    {
+        "value": "jp",
+        "label": "日本語",
+        "disabled": false
+    },
+    {
+        "value": "th",
+        "label": "ไทย",
+        "disabled": false
+    }
+]
